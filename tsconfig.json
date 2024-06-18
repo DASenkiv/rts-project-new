@@ -16,5 +16,7 @@
       "compilerOptions": {
         "module": "CommonJS"
       }
-  }
+  },
+//  для абсолютного импорта
+  "baseUrl": "."
 }
